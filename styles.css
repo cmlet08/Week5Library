@@ -1,0 +1,44 @@
+/* homepage styles */
+.home_top_section{
+   background:#14164A;    
+   width: 1000px;
+   height: 85px  
+}
+.navbar{
+    max-width:  1000px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 20 px;
+    font-family: 'Jaldi'
+}
+.nav_links{
+    display:flex;
+    gap: 40px;
+    align-items: center;
+    list-style: none;
+  
+}
+.input{
+    position: right;
+    width: 200px;
+    height: 15px;
+    background: #FFFEFE;
+    border: 2px solid #000000;
+    border-radius: 35px;
+    
+}
+.logo{
+    position: absolute;
+    left:0;
+    top: 0;
+    width: 10px;
+    height: 20px;
+    border-radius: 100px;
+}
+.heading{
+    position: relative;
+    text-align : center;
+}
